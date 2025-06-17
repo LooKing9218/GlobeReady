@@ -3,7 +3,7 @@
 ## 📺 Demo Videos
 
 ### 🎬 Demo 1 – Disease Diagnosis
-<video src="Videos/1_GlobeReady_disease_diagnosis.mp4" controls width="600"></video>
+<video src="Videos/1_GlobeReady_disease_diagnosis.mp4" controls autoplay loop></video>
 
 ### 🎬 Demo 2 – Confidence-aware Prediction
 <video src="Videos/2_Confidence_quantifiable_ocular_disease_diagnosis.mp4" controls width="600"></video>
